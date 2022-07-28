@@ -1,3 +1,5 @@
+<!-- UPDATED VIA GITHUB WORKFLOW AUTOMATION -->
+
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
